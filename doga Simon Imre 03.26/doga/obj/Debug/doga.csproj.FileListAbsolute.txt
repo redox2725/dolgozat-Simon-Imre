@@ -1,0 +1,7 @@
+C:\Users\imres\OneDrive\Asztali gép\Juhász\doga Simon Imre 03.26\doga\obj\Debug\doga.csprojAssemblyReference.cache
+C:\Users\imres\OneDrive\Asztali gép\Juhász\doga Simon Imre 03.26\doga\obj\Debug\doga.csproj.CoreCompileInputs.cache
+C:\Users\imres\OneDrive\Asztali gép\Juhász\doga Simon Imre 03.26\doga\bin\Debug\doga.exe.config
+C:\Users\imres\OneDrive\Asztali gép\Juhász\doga Simon Imre 03.26\doga\bin\Debug\doga.exe
+C:\Users\imres\OneDrive\Asztali gép\Juhász\doga Simon Imre 03.26\doga\bin\Debug\doga.pdb
+C:\Users\imres\OneDrive\Asztali gép\Juhász\doga Simon Imre 03.26\doga\obj\Debug\doga.exe
+C:\Users\imres\OneDrive\Asztali gép\Juhász\doga Simon Imre 03.26\doga\obj\Debug\doga.pdb
